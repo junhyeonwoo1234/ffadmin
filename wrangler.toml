@@ -4,8 +4,8 @@ compatibility_date = "2026-10-01"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "여기에_KV_ID_붙여넣기"   # wrangler kv namespace create KV 결과
+id = "1fb8d4e3d0a84e94a878ce1b52c3c1ec"   # wrangler kv namespace create KV 결과
 
 [vars]
 ADMIN_PASSWORD = "1102"     # 관리자 비밀번호
-SERVER_KEY = "change-me"    # 플러그인 config.yml 의 web.key 와 동일하게
+SERVER_KEY = "ffadmin"    # 플러그인 config.yml 의 web.key 와 동일하게
